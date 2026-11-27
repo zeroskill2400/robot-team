@@ -1,1 +1,1 @@
-low_battery = 20
+low_battery = 15
